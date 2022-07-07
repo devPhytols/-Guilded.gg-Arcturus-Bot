@@ -20,6 +20,7 @@
     "@discordjs/collection": "^0.7.0",
     "colors": "^1.4.0",
     "dotenv": "^16.0.1",
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.5.0"
   }
 }
