@@ -7,7 +7,7 @@ exports.run = async (client, message, args) => {
     const { avatar, name } = member.user
 
     const embed = new Embed()
-    .setColor('#7629f2')
+    .setColor(`#7629f2`)
     .setTitle(`${name}'s Profile Avatar`)
     .setImage(avatar)
 
